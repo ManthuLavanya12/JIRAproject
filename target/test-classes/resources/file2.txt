@@ -1,0 +1,12 @@
+ "{\n" +
+                "    \"fields\": {\n" +
+                "       \"project\": {\n" +
+                "          \"key\": \"PROJECT_KEY2\"\n" +
+                "       },\n" +
+                "       \"summary\": \"Issue created via RestAssured2\",\n" +
+                "       \"description\": \"Description of the issue2\",\n" +
+                "       \"issuetype\": {\n" +
+                "          \"name\": \"Task2\"\n" +
+                "       }\n" +
+                "   }\n" +
+                "}";
